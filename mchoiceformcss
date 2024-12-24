@@ -1,0 +1,49 @@
+
+.PaperCalendar, 
+.PaperCalendar__dayWrapper, 
+.PaperCalendar__wrapper, 
+.PaperCalendar__yearWrapper,
+.PaperCalendar__controls, 
+.PaperCalendar__controlBtn,
+.PaperCalendar__day.PaperCalendar__day--default,
+.PaperCalendar__day.PaperCalendar__day--disabled, 
+.PaperCalendar__controlBtn.PaperCalendar__back,
+.PaperCalendar__controlBtn.PaperCalendar__forward {
+    background: transparent !important;
+    opacity: .9 !important;
+    color: #000;
+}
+
+.BtnV2, 
+.BtnV2--raised, 
+.BtnV2--fullwidth, 
+.BtnV2--sm, 
+.BtnV2--light, 
+.Appointment__time-button, 
+.Appointment__time-picker-back {
+    background: rgba(16, 34, 187, 0.7) !important;
+    color: #fff !important;
+}
+
+
+.Appointment__confirmation {    
+    background: transparent !important;
+    opacity: .9 !important;
+    color: #fff;
+}
+
+.Select-multi-value-wrapper,
+.Select-placeholder, 
+.Select-value, 
+.Select-input, 
+.Select-arrow-zone,
+.Select-span,
+.Select-menu-outer,
+.Select-option,
+.Select-value-label,
+.Select-option.is-focused,
+.Select LiveField__input is-searchable Select--single, 
+.dropdown-field { 
+    background: rgba(16, 34, 187, 0.5);
+    opacity: 0.9;
+}
