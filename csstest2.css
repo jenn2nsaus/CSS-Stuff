@@ -1,0 +1,16 @@
+
+.btn-primary {
+    background:linear-gradient(180deg,#702b2b,#c68585);
+}
+
+.LiveField {
+background: rgba(255, 255, 255, 0.7)
+}
+
+._imgloaded {margin-top: -70px; /* Adjust this value as needed */
+    margin-bottom: -50px
+}
+.Choices__choice.btn-raised.btn-default, .btn-raised, .btn-raised:hover, .btn-raised:focus {
+    border-radius: 50px; /* Adjust the value as needed */
+}
+
